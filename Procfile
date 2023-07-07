@@ -1,0 +1,1 @@
+web: gunicorn jobsBoard.wsgi --log-file -
